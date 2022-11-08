@@ -1,11 +1,12 @@
 body {
-    background: #474545
+    background: #00fd94
 }
 
 p {
     text-align: center;
 }
+#missao{font-size: 20px} 
 
 em strong {
-    color: #1af012;
+    color: rgb(162, 0, 255);
 }
